@@ -1,0 +1,21 @@
+#container{
+	/*width: 1500px;*/
+	height: 1000px;
+	background-color: #009AC7;
+}
+
+#leftInfo{
+	width: 400px;
+	display: inline-block;
+	background-color: #009AC7;
+	vertical-align: top;
+}
+
+#rightinfo{
+	width: 400px;
+	display: inline-block;
+	/*background-color: red;
+*/	vertical-align: top;
+	border: 1px solid black;
+}
+
